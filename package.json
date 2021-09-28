@@ -15,6 +15,7 @@
     "git": "^0.1.5",
     "got": "^11.8.2",
     "hashmap": "^2.4.0",
+    "heroku-cli": "^7.0.9",
     "jsdom": "^17.0.0",
     "node-kaling": "^1.0.0",
     "node-levenshtein": "^3.0.7",
