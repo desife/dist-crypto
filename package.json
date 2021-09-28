@@ -1,0 +1,25 @@
+{
+  "name": "kakao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./web.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "got": "^11.8.2",
+    "hashmap": "^2.4.0",
+    "jsdom": "^17.0.0",
+    "node-kaling": "^1.0.0",
+    "node-levenshtein": "^3.0.7",
+    "node-schedule": "^2.0.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
