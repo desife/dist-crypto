@@ -6,7 +6,6 @@ const router = require("./routes/router.js");
 app.set("view engine", "ejs");
 app.set("views", __dirname + "/");
 
-app.use(express.static(__dirname + "/"));
 app.use(router);
 
 app.set("port", process.env.PORT || 8001);
